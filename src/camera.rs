@@ -1,3 +1,3 @@
 pub fn print_camera() {
-    println!("Camera is working!");
+    println!("Camera v0.1.2 is working!");
 }
