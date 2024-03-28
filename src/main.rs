@@ -1,5 +1,5 @@
-use test_lib::camera::print_camera;
-use test_lib::func;
+use test_lib::{func, print_camera};
+
 fn main() {
     print_camera();
     func();
